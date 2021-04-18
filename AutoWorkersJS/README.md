@@ -9,7 +9,7 @@ Open a JS file, and find the auto-workers-js menu under the Explorer tab. Then j
 
 The refactored code uses the Parallel.js library, follow the simple installation instructions here https://parallel.js.org/
 
-![Demo gif](./demo.gif)
+![Demo gif](https://github.com/CalumMcCartan/AutoWorkersJS/blob/main/AutoWorkersJS/demo.gif)
 
 
 ## Limitations
