@@ -2,7 +2,7 @@
   "name": "autoworkersjs",
   "displayName": "AutoWorkersJS",
   "description": "Improve performance by semi-automatically introducing workers into JS code fragments.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "AutoWorkersJS",
   "icon": "icon.png",
   "repository": {
